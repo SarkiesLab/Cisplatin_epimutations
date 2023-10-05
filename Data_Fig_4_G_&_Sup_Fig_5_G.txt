@@ -1,0 +1,61 @@
+Transitions	Condition	Lineage	Up	Down	Total	Generation
+transitions_at_10	Control	C1	2	11	13	10
+transitions_at_12	Control	C1	1	6	7	12
+transitions_at_14	Control	C1	4	12	16	14
+transitions_at_16	Control	C1	0	26	26	16
+transitions_at_18	Control	C1	3	6	9	18
+transitions_at_2	Control	C1	10	13	23	2
+transitions_at_20	Control	C1	11	18	29	20
+transitions_at_4	Control	C1	4	19	23	4
+transitions_at_6	Control	C1	11	8	19	6
+transitions_at_8	Control	C1	8	8	16	8
+transitions_at_10	Control	C2	2	17	19	10
+transitions_at_12	Control	C2	3	4	7	12
+transitions_at_14	Control	C2	6	11	17	14
+transitions_at_16	Control	C2	11	9	20	16
+transitions_at_18	Control	C2	3	20	23	18
+transitions_at_2	Control	C2	13	13	26	2
+transitions_at_20	Control	C2	4	17	21	20
+transitions_at_4	Control	C2	4	19	23	4
+transitions_at_6	Control	C2	NA	NA	NA	6
+transitions_at_8	Control	C2	8	10	18	8
+transitions_at_10	Low dose	L1	NA	NA	NA	10
+transitions_at_12	Low dose	L1	9	8	17	12
+transitions_at_14	Low dose	L1	2	10	12	14
+transitions_at_16	Low dose	L1	8	26	34	16
+transitions_at_18	Low dose	L1	12	10	22	18
+transitions_at_2	Low dose	L1	21	24	45	2
+transitions_at_20	Low dose	L1	6	14	20	20
+transitions_at_4	Low dose	L1	5	22	27	4
+transitions_at_6	Low dose	L1	12	22	34	6
+transitions_at_8	Low dose	L1	6	7	13	8
+transitions_at_10	Low dose	L2	19	29	48	10
+transitions_at_12	Low dose	L2	3	6	9	12
+transitions_at_14	Low dose	L2	3	11	14	14
+transitions_at_16	Low dose	L2	5	16	21	16
+transitions_at_18	Low dose	L2	1	39	40	18
+transitions_at_2	Low dose	L2	4	4	8	2
+transitions_at_20	Low dose	L2	4	11	15	20
+transitions_at_4	Low dose	L2	39	23	62	4
+transitions_at_6	Low dose	L2	NA	NA	NA	6
+transitions_at_8	Low dose	L2	3	19	22	8
+transitions_at_10	High dose	H1	3	18	21	10
+transitions_at_12	High dose	H1	8	17	25	12
+transitions_at_14	High dose	H1	6	13	19	14
+transitions_at_16	High dose	H1	7	20	27	16
+transitions_at_18	High dose	H1	17	17	34	18
+transitions_at_2	High dose	H1	25	5	30	2
+transitions_at_20	High dose	H1	7	20	27	20
+transitions_at_4	High dose	H1	4	25	29	4
+transitions_at_6	High dose	H1	NA	NA	NA	6
+transitions_at_8	High dose	H1	11	31	42	8
+transitions_at_10	High dose	H2	2	13	15	10
+transitions_at_12	High dose	H2	1	6	7	12
+transitions_at_14	High dose	H2	7	9	16	14
+transitions_at_16	High dose	H2	3	23	26	16
+transitions_at_18	High dose	H2	8	3	11	18
+transitions_at_2	High dose	H2	10	6	16	2
+transitions_at_20	High dose	H2	7	10	17	20
+transitions_at_4	High dose	H2	10	13	23	4
+transitions_at_6	High dose	H2	6	12	18	6
+transitions_at_8	High dose	H2	4	1	5	8

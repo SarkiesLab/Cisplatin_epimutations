@@ -1,0 +1,60 @@
+Transitions	Condition	Lineage	UP	DOWN	Total	Generation
+transitions_at_2	Control	C1	652	528	1180	2
+transitions_at_4	Control	C1	636	366	1002	4
+transitions_at_6	Control	C1	466	414	880	6
+transitions_at_8	Control	C1	523	396	919	8
+transitions_at_10	Control	C1	519	516	1035	10
+transitions_at_12	Control	C1	630	183	813	12
+transitions_at_14	Control	C1	726	523	1249	14
+transitions_at_16	Control	C1	361	339	700	16
+transitions_at_18	Control	C1	411	275	686	18
+transitions_at_20	Control	C1	421	338	759	20
+transitions_at_2	Control	C2	862	587	1449	2
+transitions_at_4	Control	C2	447	392	839	4
+transitions_at_6	Control	C2	500	423	923	6
+transitions_at_8	Control	C2	415	306	721	8
+transitions_at_10	Control	C2	669	160	829	10
+transitions_at_12	Control	C2	NA	NA	NA	12
+transitions_at_14	Control	C2	568	479	1047	14
+transitions_at_16	Control	C2	610	175	785	16
+transitions_at_18	Control	C2	818	530	1348	18
+transitions_at_20	Control	C2	332	405	737	20
+transitions_at_2	Low dose	L1	947	444	1391	2
+transitions_at_4	Low dose	L1	626	497	1123	4
+transitions_at_6	Low dose	L1	510	429	939	6
+transitions_at_8	Low dose	L1	415	468	883	8
+transitions_at_10	Low dose	L1	431	316	747	10
+transitions_at_12	Low dose	L1	785	366	1151	12
+transitions_at_14	Low dose	L1	403	373	776	14
+transitions_at_16	Low dose	L1	512	315	827	16
+transitions_at_18	Low dose	L1	503	465	968	18
+transitions_at_20	Low dose	L1	558	329	887	20
+transitions_at_2	Low dose	L2	565	471	1036	2
+transitions_at_4	Low dose	L2	358	183	541	4
+transitions_at_6	Low dose	L2	484	278	762	6
+transitions_at_8	Low dose	L2	457	317	774	8
+transitions_at_10	Low dose	L2	538	215	753	10
+transitions_at_12	Low dose	L2	301	162	463	12
+transitions_at_14	Low dose	L2	406	232	638	14
+transitions_at_16	Low dose	L2	352	227	579	16
+transitions_at_18	Low dose	L2	400	292	692	18
+transitions_at_20	Low dose	L2	389	305	694	20
+transitions_at_2	High dose	H1	753	547	1300	2
+transitions_at_4	High dose	H1	513	387	900	4
+transitions_at_6	High dose	H1	509	521	1030	6
+transitions_at_8	High dose	H1	339	354	693	8
+transitions_at_10	High dose	H1	577	193	770	10
+transitions_at_12	High dose	H1	411	203	614	12
+transitions_at_14	High dose	H1	432	334	766	14
+transitions_at_16	High dose	H1	509	261	770	16
+transitions_at_18	High dose	H1	455	369	824	18
+transitions_at_2	High dose	H2	605	524	1129	2
+transitions_at_4	High dose	H2	239	253	492	4
+transitions_at_6	High dose	H2	366	291	657	6
+transitions_at_8	High dose	H2	727	205	932	8
+transitions_at_10	High dose	H2	357	224	581	10
+transitions_at_12	High dose	H2	412	298	710	12
+transitions_at_14	High dose	H2	379	268	647	14
+transitions_at_16	High dose	H2	678	230	908	16
+transitions_at_18	High dose	H2	401	434	835	18
+transitions_at_20	High dose	H2	279	340	619	20

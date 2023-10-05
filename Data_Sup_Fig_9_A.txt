@@ -1,0 +1,18 @@
+loci	Condition	Total
+Glu.CTC  	Control	4
+Gly.GCC.2	Control	3
+Gln.TTG  	Control	3
+Gly.GCC   	Low dose	4
+Glu.CTC  	Low dose	2
+Ala.AGC  	Low dose	1
+Gly.GCC.3	Low dose	1
+Gln.TTG  	Low dose	4
+Trp.CCA 	High dose	1
+Gly.GCC   	High dose	5
+Leu.AAG	High dose	3
+Glu.CTC  	High dose	4
+Asp.GTC  	High dose	3
+Gly.GCC.2	High dose	1
+Ser.CGA   	High dose	1
+Gln.TTG  	High dose	5
+Gln.CTG   	High dose	3

@@ -1,0 +1,18 @@
+loci	Condition	Max_Length
+Glu.CTC  	Control	3
+Gly.GCC.2	Control	7
+Gln.TTG  	Control	19
+Gly.GCC   	Low dose	7
+Glu.CTC  	Low dose	5
+Ala.AGC  	Low dose	1
+Gly.GCC.3	Low dose	3
+Gln.TTG  	Low dose	19
+Trp.CCA 	High dose	3
+Gly.GCC   	High dose	3
+Leu.AAG	High dose	1
+Glu.CTC  	High dose	9
+Asp.GTC  	High dose	1
+Gly.GCC.2	High dose	3
+Ser.CGA   	High dose	1
+Gln.TTG  	High dose	7
+Gln.CTG   	High dose	1

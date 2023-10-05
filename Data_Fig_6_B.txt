@@ -1,0 +1,61 @@
+Percentages	Epigenetic_feature_of_gene	Species
+#NUM!	Has time matched tRNA epimutations - inherited	"Genes with inherited 
+RNA expression changes
+targeted by tRNAs epimutations"
+#NUM!	Has time matched tRNA epimutations - not inherited	"Genes with inherited 
+RNA expression changes
+targeted by tRNAs epimutations"
+#NUM!	Has tRNA epimutations - not time matched	"Genes with inherited 
+RNA expression changes
+targeted by tRNAs epimutations"
+40	Has time matched tRNA epimutations - inherited	"Genes with non inherited 
+RNA expression changes
+targeted by tRNAs epimutations"
+0	Has time matched tRNA epimutations - not inherited	"Genes with non inherited 
+RNA expression changes
+targeted by tRNAs epimutations"
+60	Has tRNA epimutations - not time matched	"Genes with non inherited 
+RNA expression changes
+targeted by tRNAs epimutations"
+		
+Low dose		
+Percentages	Epigenetic_feature_of_gene	Species
+100	Has time matched tRNA epimutations - inherited	"Genes with inherited 
+RNA expression changes
+targeted by tRNA epimutations"
+0	Has time matched tRNA epimutations - not inherited	"Genes with inherited 
+RNA expression changes
+targeted by tRNA epimutations"
+0	Has tRNA epimutations - not time matched	"Genes with inherited 
+RNA expression changes
+targeted by tRNA epimutations"
+75	Has time matched tRNA epimutations - inherited	"Genes with non inherited 
+RNA expression changes
+targeted by tRNA epimutations"
+0	Has time matched tRNA epimutations - not inherited	"Genes with non inherited 
+RNA expression changes
+targeted by tRNA epimutations"
+25	Has tRNA epimutations - not time matched	"Genes with non inherited 
+RNA expression changes
+targeted by tRNA epimutations"
+		
+High dose		
+Percentages	Epigenetic_feature_of_gene	Species
+66,66666667	Has time matched small RNA epimutations - inherited	"Genes with inherited 
+RNA expression changes
+targeted by tRNA epimutations"
+33,33333333	Has time matched small RNA epimutations - not inherited	"Genes with inherited 
+RNA expression changes
+targeted by tRNA epimutations"
+0	Has small RNA epimutations - not time matched	"Genes with inherited 
+RNA expression changes
+targeted by tRNA epimutations"
+75	Has time matched small RNA epimutations - inherited	"Genes with non inherited 
+RNA expression changes
+targeted by tRNA epimutations"
+0	Has time matched small RNA epimutations - not inherited	"Genes with non inherited 
+RNA expression changes
+targeted by tRNA epimutations"
+25	Has small RNA epimutations - not time matched	"Genes with non inherited 
+RNA expression changes
+targeted by tRNA epimutations"

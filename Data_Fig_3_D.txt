@@ -1,0 +1,31 @@
+Term	log_OR	p_val	neg_log_P	find_alpha	find_size	Condition
+peptidyl-serine modification (GO:0018209)	1,15284469	2,47852E-13	29,02594532	1	29,02594532	High dose
+peptidyl-serine modification (GO:0018209)	1,257064991	3,86118E-15	33,18780287	1	33,18780287	Low dose
+protein phosphorylation (GO:0006468)	1,10103165	3,23E-13	28,76112531	1	28,76112531	Control
+protein phosphorylation (GO:0006468)	1,15343496	8,32056E-16	34,72263198	1	34,72263198	High dose
+protein phosphorylation (GO:0006468)	1,257798754	5,52378E-18	39,73747011	1	39,73747011	Low dose
+protein serine/threonine kinase activity (GO:0004674)	1,101287934	2,29871E-14	31,40384252	1	31,40384252	Control
+protein serine/threonine kinase activity (GO:0004674)	1,154173737	6,77964E-19	41,83519276	1	41,83519276	High dose
+protein serine/threonine kinase activity (GO:0004674)	1,258349927	4,07881E-20	44,64589715	1	44,64589715	Low dose
+protein kinase activity (GO:0004672)	1,101672694	4,37896E-16	35,36455034	1	35,36455034	Control
+protein kinase activity (GO:0004672)	1,154830991	3,23492E-23	51,78545147	1	51,78545147	High dose
+protein kinase activity (GO:0004672)	1,25890183	3,0173E-22	49,5525087	1	49,5525087	Low dose
+G-protein coupled olfactory receptor activity (GO:0038022)	1,10270068	1,14715E-20	45,91442412	1	45,91442412	Control
+G-protein coupled receptor activity (GO:0004930)	1,103086911	2,20033E-22	49,86826445	1	49,86826445	Control
+G-protein coupled receptor activity (GO:0004930)	1,152992195	5,96143E-14	30,45088011	1	30,45088011	High dose
+G-protein coupled receptor activity (GO:0004930)	1,257431711	1,45906E-16	36,46356609	1	36,46356609	Low dose
+olfactory receptor activity (GO:0004984)	1,103731528	3,02681E-25	56,45711806	1	56,45711806	Control
+olfactory receptor activity (GO:0004984)	1,15343496	8,32056E-16	34,72263198	1	34,72263198	High dose
+olfactory receptor activity (GO:0004984)	1,258166122	2,09406E-19	43,01001115	1	43,01001115	Low dose
+nucleus (GO:0005634)	1,104506551	1,11427E-28	64,36418507	1	64,36418507	Control
+nucleus (GO:0005634)	1,163484307	4,16695E-59	134,4253363	1	134,4253363	High dose
+nucleus (GO:0005634)	1,264834487	5,40264E-45	101,9294406	1	101,9294406	Low dose
+integral component of plasma membrane (GO:0005887)	1,10463588	2,98249E-29	65,68221077	1	65,68221077	Control
+integral component of plasma membrane (GO:0005887)	1,155719854	6,4055E-27	60,3126405	1	60,3126405	High dose
+integral component of plasma membrane (GO:0005887)	1,259638838	4,3545E-25	56,09341744	1	56,09341744	Low dose
+sensory perception of chemical stimulus (GO:0007606)	1,105024136	5,71667E-31	69,63675056	1	69,63675056	Control
+sensory perception of chemical stimulus (GO:0007606)	1,153730346	4,83295E-17	37,56848858	1	37,56848858	High dose
+sensory perception of chemical stimulus (GO:0007606)	1,260192449	3,2244E-27	60,99905081	1	60,99905081	Low dose
+detection of chemical stimulus involved in sensory perception (GO:0050907)	1,105024136	5,71667E-31	69,63675056	1	69,63675056	Control
+detection of chemical stimulus involved in sensory perception (GO:0050907)	1,153730346	4,83295E-17	37,56848858	1	37,56848858	High dose
+detection of chemical stimulus involved in sensory perception (GO:0050907)	1,260192449	3,2244E-27	60,99905081	1	60,99905081	Low dose

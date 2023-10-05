@@ -1,0 +1,4 @@
+Condition	count	mean	sd
+Control	9	26,94970646	11,91467952
+High dose	9	26,15632211	7,436032522
+Low dose	9	20,36583355	6,637152113

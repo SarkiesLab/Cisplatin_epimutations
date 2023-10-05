@@ -1,0 +1,9 @@
+values	names
+199	Control
+177	Control
+184	Control
+217	Control
+182	High dose
+165	High dose
+148	High dose
+109	High dose

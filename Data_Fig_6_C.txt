@@ -1,0 +1,19 @@
+log_OR	Names	Pvalues	neg_log_P	find_alpha	find_size	conditions
+-Inf	All genes concordant epimutations	1	0	0,3	0	Control
+Inf	All genes discordant epimutations	0,048951049	4,352516415	1	4,352516415	Control
+-Inf	Concordant UP	1	0	0,3	0	Control
+-Inf	Concordant DOWN	1	0	0,3	0	Control
+-Inf	Discordant UP	1	0	0,3	0	Control
+Inf	Discordant DOWN	0,048951049	4,352516415	1	4,352516415	Control
+Inf	All genes concordant epimutations	0,002622378	8,574908836	1	8,574908836	Low dose
+Inf	All genes discordant epimutations	0,121212121	3,044394119	0,3	3,044394119	Low dose
+Inf	Concordant UP	0,121212121	3,044394119	0,3	3,044394119	Low dose
+Inf	Concordant DOWN	0,016783217	5,896836931	1	5,896836931	Low dose
+Inf	Discordant UP	0,121212121	3,044394119	0,3	3,044394119	Low dose
+-Inf	Discordant DOWN	1	0	0,3	0	Low dose
+3,437965787	All genes concordant epimutations	0,022022333	5,504888909	1	5,504888909	High dose
+3,437965787	All genes discordant epimutations	0,022022333	5,504888909	1	5,504888909	High dose
+1,953389977	Concordant UP	0,325699301	1,618387473	0,3	1,618387473	High dose
+2,896371732	Concordant DOWN	0,086538462	3,530514717	0,3	3,530514717	High dose
+2,896371732	Discordant UP	0,086538462	3,530514717	0,3	3,530514717	High dose
+1,953389977	Discordant DOWN	0,325699301	1,618387473	0,3	1,618387473	High dose

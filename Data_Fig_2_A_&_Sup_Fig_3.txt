@@ -1,0 +1,55 @@
+Generation	Lineage	Condition	New_lasting_indels	New_lasting_snps	Total
+0	C1	Control	0	0	0
+2	C1	Control	1	2	3
+4	C1	Control	0	1	1
+6	C1	Control	0	0	0
+8	C1	Control	NA	NA	NA
+10	C1	Control	0	0	0
+12	C1	Control	0	0	0
+14	C1	Control	0	0	0
+16	C1	Control	0	0	0
+18	C1	Control	0	0	0
+0	C2	Control	0	0	0
+2	C2	Control	0	0	0
+4	C2	Control	0	0	0
+6	C2	Control	0	0	0
+8	C2	Control	NA	NA	NA
+10	C2	Control	NA	NA	NA
+12	C2	Control	0	0	0
+14	C2	Control			
+16	C2	Control	0	0	0
+18	C2	Control	6	2	8
+0	L1	Low dose	0	0	0
+2	L1	Low dose	0	2	2
+4	L1	Low dose	0	0	0
+6	L1	Low dose	NA	NA	NA
+8	L1	Low dose	1	0	1
+10	L1	Low dose	0	0	0
+12	L1	Low dose	2	1	0
+14	L1	Low dose	NA	NA	NA
+0	L2	Low dose	0	0	0
+2	L2	Low dose	NA	NA	NA
+4	L2	Low dose	0	0	0
+6	L2	Low dose	NA	NA	NA
+8	L2	Low dose	0	0	0
+10	L2	Low dose	0	4	4
+12	L2	Low dose	0	3	3
+14	L2	Low dose	NA	NA	NA
+0	H1	High dose	0	3	3
+2	H1	High dose	2	3	5
+4	H1	High dose	1	1	2
+6	H1	High dose	1	0	1
+8	H1	High dose	1	0	1
+10	H1	High dose	3	0	3
+12	H1	High dose	NA	NA	NA
+14	H1	High dose	NA	NA	NA
+16	H1	High dose	NA	NA	NA
+0	H2	High dose	0	0	0
+2	H2	High dose	0	0	0
+4	H2	High dose	0	2	2
+6	H2	High dose	NA	NA	NA
+8	H2	High dose	0	1	1
+10	H2	High dose	0	1	1
+12	H2	High dose	1	1	2
+14	H2	High dose	NA	NA	NA
+16	H2	High dose	5	15	20
